@@ -1,0 +1,15 @@
+.is-vertical {
+  display: flex;
+}
+
+.is-horizontal {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.main-navigator {
+  width: 100%;
+  height: 36px;
+  border-bottom: 1px solid #eee;
+}
